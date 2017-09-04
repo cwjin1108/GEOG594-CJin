@@ -1,3 +1,4 @@
-# GEOG594-CJin
-## Chanwoo Jin
+# Chanwoo Jin
+Nice to meet you!
+
 [Link to Classroom](http://map.sdsu.edu/bigdata/)

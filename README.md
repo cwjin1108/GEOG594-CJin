@@ -1,3 +1,3 @@
 # GEOG594-CJin
 ## Chanwoo Jin
-<http://map.sdsu.edu/bigdata/>
+[Link to Classroom](http://map.sdsu.edu/bigdata/)
